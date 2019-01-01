@@ -5,6 +5,13 @@ a small program to simulate  banking on both sides Client/Employee.
 
 For now it is a comand line program, i will create an GUI later down using JavaFx.
 
+JavaSE 8
+
+IntelliJ IDE
+
+Database not yet
+
+Database manager not yet
 
 # Roadmap so far(items will be moved and added by, by priority).
 
