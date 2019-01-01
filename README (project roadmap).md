@@ -1,4 +1,7 @@
 # Banking
+
+(please view readme in raw format much more legable and organized)
+
 a small program to simulate  banking on both sides Client/Employee.
 
 For now it is a comand line program, i will create an GUI later down using JavaFx.
