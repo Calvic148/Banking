@@ -1,6 +1,5 @@
 # Banking
 
-(please view readme in raw format much more legable and organized)
 
 a small program to simulate  banking on both sides Client/Employee.
 
