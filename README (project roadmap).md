@@ -2,6 +2,7 @@
 a small program to simulate  banking on both sides Client/Employee.
 
 For now it is a comand line program, i will create an GUI later down using JavaFx.
+
 ===============================================================
 Roadmap so far(items will be moved and added by, by priority).
 ===============================================================
@@ -17,6 +18,7 @@ add security measures for -loging in, depositing at bank, depositing at atm,.
 
 
 end gui
+
 ==========
 Sprint 1
 ==========
@@ -28,5 +30,5 @@ Sprint 1
  . exception handling
  
  ==========
- Sprint 2
+ Sprint 2.
  ==========
