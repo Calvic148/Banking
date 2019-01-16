@@ -9,9 +9,7 @@ JavaSE 8
 
 IntelliJ IDE
 
-Database not yet
-
-Database manager not yet
+Database sqlite
 
 # Roadmap so far(items will be moved and added by, by priority).
 
